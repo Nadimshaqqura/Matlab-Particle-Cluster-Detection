@@ -31,4 +31,4 @@ An automated batch-processing script in MATLAB for microscopy image analysis. It
 3. Specify your input and output directories:
    ```matlab
    inputFolder  = 'path/to/raw_images';
-   outputFolder = 'path/to/output_folder';<img width="1920" height="1200" alt="mov2042_raw" src="https://github.com/user-attachments/assets/3d6d50b4-87b9-40ee-9d13-e53282943ef3" />
+   outputFolder = 'path/to/output_folder';
