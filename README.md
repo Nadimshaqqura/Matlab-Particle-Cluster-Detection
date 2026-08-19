@@ -7,7 +7,7 @@ An automated batch-processing script in MATLAB for microscopy image analysis. It
 | Original Microscopy Frame | Processed Cluster Classification |
 | :---: | :---: |
 | ![Original Image](docs/mov2042_raw.jpg) | ![Processed Image](docs/mov2042.png) |
-| *Raw optical microscopy image* | *Blue = Single Particles ($\le 100\text{ px}$)<br>Red = Aggregated Clusters ($> 100\text{ px}$)* |
+| *Raw optical microscopy image* | *Blue = Single Particles Red = Aggregated Clusters  |
 
 ## Key Features
 
