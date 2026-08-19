@@ -1,4 +1,4 @@
-# MATLAB Particle & Cluster Detection
+# MATLAB Cluster finder
 
 An automated batch-processing script in MATLAB for microscopy image analysis. It processes raw microscopy frames to detect colloidal particles and classify them into single particles versus larger aggregated clusters based on area thresholds.
 
